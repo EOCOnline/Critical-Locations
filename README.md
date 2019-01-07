@@ -1,4 +1,4 @@
-# Critical-Locations#
+# Critical-Locations
 
 For small communities, there are a limited number of establishments that are 'critical' to the community, or at least to fire and police and other life-safety organizations. This DNN Module will allow tracking their status and reporting that to others.
 
